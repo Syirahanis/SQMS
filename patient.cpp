@@ -733,7 +733,7 @@ public:
                     cout << "\nLATE ARRIVAL & QUEUE EXPIRED\n";
                     cout << "\"Your Queue Number Has Expired. Please Click The Button Below To Get New Queue Number\"\n";
                     cout << "1. REQUEST NEW QUEUE NUMBER\n";
-                    cout << "2. CANCEL APPLICATION\n";
+                    cout << "2. CANCEL APPOINTMENT\n";
                     cout << "Choose an option: ";
                     int expiredChoice;
                     if (!(cin >> expiredChoice)) {
